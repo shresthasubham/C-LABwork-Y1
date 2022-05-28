@@ -1,2 +1,2 @@
 # C-LABwork-Y1
-includea the lab work done in C programming
+include the lab work done in C programming
